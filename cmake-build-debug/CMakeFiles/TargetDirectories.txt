@@ -1,0 +1,3 @@
+/Users/wangzuo99/CLionProjects/code1/cmake-build-debug/CMakeFiles/code1.dir
+/Users/wangzuo99/CLionProjects/code1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangzuo99/CLionProjects/code1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
